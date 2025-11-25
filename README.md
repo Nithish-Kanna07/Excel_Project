@@ -27,12 +27,11 @@ Copy code
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/Nithish-Kanna07/Excel_Project.git
 2️⃣ Open the file
 Use any of the following:
 
-💼 Microsoft Excel (recommended)
+## 💼 Microsoft Excel (recommended)
 
 🌐 Google Sheets / LibreOffice Calc (limited feature support)
 
