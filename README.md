@@ -1,3 +1,8 @@
+# 📊 **Excel Project**
+
+## 📘 **Overview**
+This repository contains an Excel-based project demonstrating structured data management, formula application, and basic analytics using Microsoft Excel. The file **`EXCEL_PROJECT_NITHISH.xlsx`** showcases organized datasets, calculations, and formatted outputs suitable for learning or professional use.
+
 # 📊 **Excel Project Dashboard**
 
 ## 📂 **Project Structure**
@@ -71,5 +76,4 @@ GitHub: *Nithish-Kanna07*(https://github.com/Nithish-Kanna07)
 ---
 
 ## 📥 **How to Clone This Repository**
-```bash
-git clone https://github.com/Nithish-Kanna07/Excel_Project.git
+git clone [Excel Project](https://github.com/Nithish-Kanna07/Excel_Project.git)
