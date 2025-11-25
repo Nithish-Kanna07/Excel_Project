@@ -58,7 +58,7 @@ If Excel prompts with warnings:
 
 ## 👤 **Author**
 **Nithish Kumar**  
-GitHub: *Nithish-Kanna07*
+GitHub: *Nithish-Kanna07*(https://github.com/Nithish-Kanna07)
 
 ---
 
