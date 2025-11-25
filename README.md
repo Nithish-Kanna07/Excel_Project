@@ -3,8 +3,13 @@
 ## 📘 **Overview**
 This repository contains an Excel-based project demonstrating structured data management, formula application, and basic analytics using Microsoft Excel. The file **`EXCEL_PROJECT_NITHISH.xlsx`** showcases organized datasets, calculations, and formatted outputs suitable for learning or professional use.
 
+---
+
 # 📊 **Excel Project Dashboard**
 ![dashboard](Excel_Dashboard.png)
+
+---
+
 ## 📂 **Project Structure**
 - **EXCEL_PROJECT_NITHISH.xlsx** — The Excel workbook containing the dashboard, datasets, charts, KPIs, and calculations.
 
@@ -22,58 +27,59 @@ This Excel dashboard project is designed to:
 - 📌 **KPI Tiles** — Highlight important business metrics at a glance  
 - 📈 **Trend Charts** — Line/bar charts showing performance over time  
 - 📊 **Category Breakdown** — Pie/bar charts analyzing categories  
-- 🎛️ **Dynamic Filtering** — Drop-down filters or slicers for drilling down into segments  
-- 🔄 **Auto-Updating Visuals** — Charts refresh when data changes  
+- 🎛️ **Dynamic Filtering** — Drop-down filters or slicers for detailed segmentation  
+- 🔄 **Auto-Updating Visuals** — Charts update when data is refreshed  
 
 ---
 
 ## ⚙ **How to Use**
 
 ### 1️⃣ **Open the Workbook**
-Open **EXCEL_PROJECT_NITHISH.xlsx** in Microsoft Excel (preferably Excel 2016+ for best compatibility).
+Open **EXCEL_PROJECT_NITHISH.xlsx** in Microsoft Excel (Excel 2016 or newer for best results).
 
 ### 2️⃣ **Enable Content**
-If Excel prompts with warnings:
+If Excel prompts:
 - Click **Enable Editing**
-- Click **Enable Content** (important for macros/pivots)
+- Click **Enable Content** (required for pivots/macros)
 
 ### 3️⃣ **Explore the Dashboard**
-- Use **filters / slicers** to switch between views  
+- Use slicers or filters to view different segments  
 - Navigate between sheets (Dashboard, Data, Raw Data, Summary)
 
 ### 4️⃣ **Update the Data**
 - Go to the **Data** sheet  
-- Enter or paste new entries  
-- Refresh pivot tables / charts for updated visuals  
+- Paste or input new data  
+- Refresh pivot tables/charts to update the visuals  
 
 ### 5️⃣ **Save or Export**
-- Export dashboards as images or PDF  
-- Save as a new version if needed  
+- Export dashboard visuals as **images** or **PDF**  
+- Save the updated workbook  
 
 ---
 
 ## 📈 **Use Cases**
-- Sales / revenue performance tracking  
-- Monthly & quarterly reporting  
-- Operational analysis  
-- Academic or training projects for practicing Excel dashboards  
-- Team data reviews & presentations  
+- Sales / financial performance tracking  
+- Monthly / quarterly business reports  
+- Operations and category analysis  
+- Academic or training projects  
+- Team presentations and insights  
 
 ---
 
 ## 👤 **Author**
 **Nithish Kumar**  
-GitHub: *Nithish-Kanna07*(https://github.com/Nithish-Kanna07)
+GitHub: [Nithish-Kanna07](https://github.com/Nithish-Kanna07)
 
 ---
 
 ## 💡 **Next Steps**
-- Add Power Query to automate data imports  
-- Integrate Power Pivot for advanced modelling  
-- Create a Power BI version of the dashboard  
-- Add documentation sheet for formulas & workflow  
+- Add Power Query for automated data integration  
+- Use Power Pivot for advanced data modelling  
+- Build a Power BI version of the dashboard  
+- Add a documentation sheet with detailed formula references  
 
 ---
 
 ## 📥 **How to Clone This Repository**
-git clone [Excel Project](https://github.com/Nithish-Kanna07/Excel_Project.git)
+```bash
+git clone https://github.com/Nithish-Kanna07/Excel_Project.git
