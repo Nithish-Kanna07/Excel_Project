@@ -4,7 +4,7 @@
 This repository contains an Excel-based project demonstrating structured data management, formula application, and basic analytics using Microsoft Excel. The file **`EXCEL_PROJECT_NITHISH.xlsx`** showcases organized datasets, calculations, and formatted outputs suitable for learning or professional use.
 
 # 📊 **Excel Project Dashboard**
-![dashboard](Excel Dashboard.png)
+![dashboard](Excel_Dashboard.png)
 ## 📂 **Project Structure**
 - **EXCEL_PROJECT_NITHISH.xlsx** — The Excel workbook containing the dashboard, datasets, charts, KPIs, and calculations.
 
